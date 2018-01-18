@@ -1,7 +1,7 @@
 {
-  "name": "slides-beerjs-28",
+  "name": "slides-beerjs-valdivia-01",
   "version": "0.0.1",
-  "description": "Tips para Node y Caracteristicas de ES6/7/8",
+  "description": "Como usar los Breakpoints en Chrome y Firefox",
   "main": "index.js",
   "scripts": {
     "start": "npm run open && npm run watch",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lgaticaq/slides-beerjs-28.git"
+    "url": "git+https://github.com/lgaticaq/slides-beerjs-valdivia-01.git"
   },
   "keywords": [],
   "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lgaticaq/slides-beerjs-28/issues"
+    "url": "https://github.com/lgaticaq/slides-beerjs-valdivia-01/issues"
   },
-  "homepage": "https://github.com/lgaticaq/slides-beerjs-28#readme",
+  "homepage": "https://github.com/lgaticaq/slides-beerjs-valdivia-01#readme",
   "dependencies": {},
   "devDependencies": {
     "cleaver": "^0.8.5",
